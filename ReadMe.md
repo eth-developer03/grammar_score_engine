@@ -115,3 +115,5 @@ An advanced audio analysis tool that uses AI to evaluate grammar quality in spee
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## [_LINK OF THE IPYNB FILE_](https://colab.research.google.com/drive/1ZsU7PbU_xqQU2X7oIpIR-LF9Z1vSUk3-?usp=sharing)
