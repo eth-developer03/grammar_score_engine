@@ -31,6 +31,7 @@ An advanced audio analysis tool that uses AI to evaluate grammar quality in spee
 
 - Python 3.8 or higher
 - FFmpeg installed on your system
+- Used Conda for env creation
 
 ### Installation
 
